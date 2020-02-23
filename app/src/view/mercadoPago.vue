@@ -73,7 +73,7 @@ export default {
   },
 
   mounted() {
-    window.Mercadopago.setPublishableKey('TEST-1b175dd2-bb91-45c2-aef8-e794dc993c5d');
+    window.Mercadopago.setPublishableKey('TEST-bfdbe68f-d0a9-452c-b115-ddb9dca2be45');
   },
 
   methods: {
